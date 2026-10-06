@@ -8,13 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=1ncludeX&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </a>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Java+%7C+C%2B%2B+%7C+Python;Freelance+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Создаю+и+экспериментирую;Сейчас+разрабатываю+плагин+для+IDE..."
-    alt="Анимация"
-  />
-</p>
-
 </div>
 
 ---
@@ -134,16 +127,6 @@ while (gameRunning) {
 
 ---
 
-## 📈 Моя активность
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1ncludeX&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📬 Связаться со мной
 
 <div align="center">
@@ -161,9 +144,7 @@ while (gameRunning) {
 ```text
 ╔══════════════════════════════════════╗
 ║                                      ║
-║       Спасибо, что заглянул! 👾     ║
-║                                      ║
-║   "Хороший код можно написать.      ║
+║   "Хороший код можно написать.       ║
 ║    Отличный — переписать."           ║
 ║                                      ║
 ╚══════════════════════════════════════╝
