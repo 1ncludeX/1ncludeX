@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=1ncludeX&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Welcome!&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </a>
 
 # 👋 Привет, я `1ncludeX`
