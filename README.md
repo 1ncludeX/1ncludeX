@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Привет, я `1ncludeX`
-
-### Разработка ПО • Open Source • Эксперименты
-
 <a href="https://capsule-render.vercel.app">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=1ncludeX&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </a>
+
+# 👋 Привет, я `1ncludeX`
+
+### Разработка ПО • Open Source • Эксперименты
 
 </div>
 
@@ -142,12 +142,12 @@ while (gameRunning) {
 <br><br>
 
 ```text
-                                                      ╔══════════════════════════════════════╗
-                                                      ║                                      ║
-                                                      ║   "Хороший код можно написать.       ║
-                                                      ║    Отличный — переписать."           ║
-                                                      ║                                      ║
-                                                      ╚══════════════════════════════════════╝
+                                  ╔══════════════════════════════════════╗
+                                  ║                                      ║
+                                  ║   "Хороший код можно написать.       ║
+                                  ║    Отличный — переписать."           ║
+                                  ║                                      ║
+                                  ╚══════════════════════════════════════╝
 ```
 
 </div>
