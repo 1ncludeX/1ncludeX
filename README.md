@@ -2,7 +2,7 @@
 
 # 👋 Привет, я `1ncludeX`
 
-### `кодирую → создаю → ломаю → исправляю`
+### Разработка ПО • Open Source • Эксперименты
 
 <a href="https://capsule-render.vercel.app">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=1ncludeX&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
@@ -41,12 +41,12 @@
 ### Инструменты
 
 <p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ### Базы данных и технологии
@@ -142,12 +142,12 @@ while (gameRunning) {
 <br><br>
 
 ```text
-╔══════════════════════════════════════╗
-║                                      ║
-║   "Хороший код можно написать.       ║
-║    Отличный — переписать."           ║
-║                                      ║
-╚══════════════════════════════════════╝
+                                                      ╔══════════════════════════════════════╗
+                                                      ║                                      ║
+                                                      ║   "Хороший код можно написать.       ║
+                                                      ║    Отличный — переписать."           ║
+                                                      ║                                      ║
+                                                      ╚══════════════════════════════════════╝
 ```
 
 </div>
